@@ -3,7 +3,9 @@
 This shared task aims to introduce and regularize the concept of Word Grouping in Indian languages. Word grouping is a process wherein, given a plain text sentence in an Indian language, the task is to output a sequence of word groups, where each group represents a semantically cohesive unit.
 
 Example:
+
 Input Sentence: कुक आइलैंड्स दक्षिण प्रशांत महासागर के बीच में पोलिनेशिया में स्थित एक द्वीप देश है , जिसका नूजीलैंड के साथ खुला सहयोग है ।
+
 Output Sentence: कुक__आइलैंड्स दक्षिण प्रशांत__महासागर__के बीच में पोलिनेशिया__में स्थित एक द्वीप देश है , जिसका नूजीलैंड__के साथ खुला सहयोग है ।
 
 
