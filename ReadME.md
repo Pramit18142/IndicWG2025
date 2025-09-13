@@ -19,7 +19,7 @@ The link to shared task is :
 2. An individual cannot be part of multiple teams.
 3. Submission is from one CodaBench account.
 4. CodaBench account is required for participation.
-5. Google Form for registration of teams: https://forms.gle/gftDLz69Vv9aB3AEA.
+
 
 ## Evaluation Criteria
 
